@@ -1,5 +1,5 @@
 # Data_Bootcamp_Project
-Cordel, Gibbs, Miller, Ross
+Cordell, Gibbs, Miller, Ross
 
 # Overview
 
